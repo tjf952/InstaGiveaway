@@ -1,0 +1,12 @@
+a python3 gui with the following requirements:
+- it has a spinning giveaway wheel
+- it gets names from a text file and places them around the wheel
+- the wheel will stop spinning after 5 seconds
+- it will generate a congratulations message when it completes and selects the name at 0 degrees
+
+a python3 gui that replicates what wheelofnames.com with the following requirements:
+- the wheel spins
+- the wheel has the names on the edges of the wheels
+- you can shuffle the name positions
+- a congratulations message pops up when a winner is selected
+- you can remove the winner to start the wheel again
